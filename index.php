@@ -12,6 +12,6 @@ include('includes/init.php');
 <body>
   <?php include("includes/header.php");?>
 
-
+  
 </body>
 </html>
